@@ -31,6 +31,8 @@ I love building **Android & iOS apps**, writing **efficient Python scripts**, an
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavrajbingo@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Keshavraj12/)  
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__singh_keshav__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavrajbingo@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Keshavraj12/)
+
 ---
 
 # 💻 Tech Stack  
